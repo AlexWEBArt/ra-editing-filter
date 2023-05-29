@@ -1,10 +1,10 @@
-import Form from './components/Form';
-import './src/main.css';
+import MainComponent from './components/MainComponent/MainComponent';
+import './css/main.css';
 
 function App() {
   return (
-    <div className="main-content">
-      <Form />
+    <div className="app-content">
+      <MainComponent />
     </div>
   );
 }
