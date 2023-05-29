@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-editing-filter/static/css/main.c515a111.css",
+    "main.js": "/ra-editing-filter/static/js/main.25a74ab8.js",
+    "static/js/787.806bc05d.chunk.js": "/ra-editing-filter/static/js/787.806bc05d.chunk.js",
+    "index.html": "/ra-editing-filter/index.html",
+    "main.c515a111.css.map": "/ra-editing-filter/static/css/main.c515a111.css.map",
+    "main.25a74ab8.js.map": "/ra-editing-filter/static/js/main.25a74ab8.js.map",
+    "787.806bc05d.chunk.js.map": "/ra-editing-filter/static/js/787.806bc05d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c515a111.css",
+    "static/js/main.25a74ab8.js"
+  ]
+}
